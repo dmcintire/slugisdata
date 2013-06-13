@@ -1,2 +1,1 @@
-slugisdata
-==========
+This is a preliminary effort to host San Luis Unit (SLU) geo-data on GitHub.
