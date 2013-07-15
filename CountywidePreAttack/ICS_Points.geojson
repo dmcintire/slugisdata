@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"features": [
+{"type": "Feature", "id": 1, "properties": {"preattack": "Parkhill", "type": "Incident Command Post", "fid": 0}, "geometry": { "type": "Point", "coordinates": [-120.602672077, 35.3940457593]  } },
+{"type": "Feature", "id": 2, "properties": {"preattack": "Parkhill", "type": "Staging Area", "fid": 1}, "geometry": { "type": "Point", "coordinates": [-120.542889197, 35.3544994974]  } },
+{"type": "Feature", "id": 3, "properties": {"preattack": "Parkhill", "type": "Helibase", "fid": 2}, "geometry": { "type": "Point", "coordinates": [-120.54499536, 35.3525221939]  } },
+{"type": "Feature", "id": 4, "properties": {"preattack": "Parkhill", "type": "Staging Area", "fid": 3}, "geometry": { "type": "Point", "coordinates": [-120.455165583, 35.3698568289]  } },
+{"type": "Feature", "id": 5, "properties": {"preattack": "Parkhill", "type": "Safe Refuge", "fid": 4}, "geometry": { "type": "Point", "coordinates": [-120.4524352, 35.36963096]  } },
+{"type": "Feature", "id": 6, "properties": {"preattack": "Parkhill", "type": "Helispot", "fid": 5}, "geometry": { "type": "Point", "coordinates": [-120.471801049, 35.3855324498]  } },
+{"type": "Feature", "id": 7, "properties": {"preattack": "Parkhill", "type": "Helispot", "fid": 6}, "geometry": { "type": "Point", "coordinates": [-120.481335186, 35.3903723771]  } },
+{"type": "Feature", "id": 8, "properties": {"preattack": "Parkhill", "type": "Helispot", "fid": 7}, "geometry": { "type": "Point", "coordinates": [-120.494352523, 35.4000840465]  } },
+{"type": "Feature", "id": 9, "properties": {"preattack": "Parkhill", "type": "Safe Refuge", "fid": 8}, "geometry": { "type": "Point", "coordinates": [-120.494394309, 35.3983828545]  } },
+{"type": "Feature", "id": 10, "properties": {"preattack": "Parkhill", "type": "Staging Area", "fid": 9}, "geometry": { "type": "Point", "coordinates": [-120.446389584, 35.3952392366]  } },
+{"type": "Feature", "id": 11, "properties": {"preattack": "Parkhill", "type": "Helispot", "fid": 10}, "geometry": { "type": "Point", "coordinates": [-120.447654334, 35.3946268932]  } },
+{"type": "Feature", "id": 12, "properties": {"preattack": "Parkhill", "type": "Staging Area", "fid": 11}, "geometry": { "type": "Point", "coordinates": [-120.503994952, 35.4369559824]  } },
+{"type": "Feature", "id": 13, "properties": {"preattack": "Parkhill", "type": "Staging Area", "fid": 12}, "geometry": { "type": "Point", "coordinates": [-120.495813245, 35.4370983085]  } },
+{"type": "Feature", "id": 14, "properties": {"preattack": "Parkhill", "type": "Safe Refuge", "fid": 13}, "geometry": { "type": "Point", "coordinates": [-120.530656257, 35.4032228875]  } },
+{"type": "Feature", "id": 15, "properties": {"preattack": "Parkhill", "type": "Helispot", "fid": 14}, "geometry": { "type": "Point", "coordinates": [-120.52570797, 35.4046921034]  } },
+{"type": "Feature", "id": 16, "properties": {"preattack": "Parkhill", "type": "Safe Refuge", "fid": 15}, "geometry": { "type": "Point", "coordinates": [-120.498060592, 35.4358629571]  } },
+{"type": "Feature", "id": 17, "properties": {"preattack": "Parkhill", "type": "Helibase", "fid": 16}, "geometry": { "type": "Point", "coordinates": [-120.603515989, 35.4181406017]  } },
+{"type": "Feature", "id": 18, "properties": {"preattack": "Parkhill", "type": "Staging Area", "fid": 17}, "geometry": { "type": "Point", "coordinates": [-120.580493987, 35.3908799773]  } },
+{"type": "Feature", "id": 19, "properties": {"preattack": "Parkhill", "type": "Helibase", "fid": 18}, "geometry": { "type": "Point", "coordinates": [-120.576985075, 35.3898929674]  } } 
+]}
