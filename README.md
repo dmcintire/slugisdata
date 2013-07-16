@@ -1,6 +1,8 @@
 
 =======
-*This is a preliminary effort to host San Luis Unit (SLU) geo-data on GitHub.*
+*This is a preliminary effort at hosting San Luis Unit (SLU) geo-data on GitHub.*
+
+To view a sample of some of the data, click on a .geojson file within the `ExampleData` folder
 
 ###Looking for a shapefile, or other format?###
 
