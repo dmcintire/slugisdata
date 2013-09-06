@@ -2,113 +2,1103 @@
 "type": "FeatureCollection",
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Incident Command Post", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.60267207699999, 35.394045759299999 ] } }
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helibase" }, "geometry": { "type": "Point", "coordinates": [ -120.54499536, 35.352522193900001 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 1 }, "geometry": { "type": "Point", "coordinates": [ -120.54288919699999, 35.354499497399999 ] } }
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Safe Refuge" }, "geometry": { "type": "Point", "coordinates": [ -120.4524352, 35.36963096 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helibase", "fid_1": 2 }, "geometry": { "type": "Point", "coordinates": [ -120.54499536, 35.352522193900001 ] } }
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.580493987, 35.390879977300003 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 3 }, "geometry": { "type": "Point", "coordinates": [ -120.455165583, 35.369856828899998 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.55141306599999, 35.335913258799998 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Safe Refuge", "fid_1": 4 }, "geometry": { "type": "Point", "coordinates": [ -120.4524352, 35.36963096 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.60581803321838, 35.391573310028434 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot", "fid_1": 5 }, "geometry": { "type": "Point", "coordinates": [ -120.47180104900001, 35.385532449800003 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.72899368799358, 35.452919384360719 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot", "fid_1": 6 }, "geometry": { "type": "Point", "coordinates": [ -120.481335186, 35.3903723771 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.81300082392984, 35.468606206166207 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot", "fid_1": 7 }, "geometry": { "type": "Point", "coordinates": [ -120.494352523, 35.400084046499998 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.82713368701131, 35.483903694789788 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Safe Refuge", "fid_1": 8 }, "geometry": { "type": "Point", "coordinates": [ -120.494394309, 35.398382854499999 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.45385825255134, 35.094749575907386 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 9 }, "geometry": { "type": "Point", "coordinates": [ -120.446389584, 35.395239236599998 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.45285329859342, 35.098017702967233 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot", "fid_1": 10 }, "geometry": { "type": "Point", "coordinates": [ -120.44765433400001, 35.394626893199998 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.45776032804494, 35.096447341283834 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 11 }, "geometry": { "type": "Point", "coordinates": [ -120.503994952, 35.436955982400001 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.45976972322046, 35.097954726375114 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 12 }, "geometry": { "type": "Point", "coordinates": [ -120.49581324499999, 35.437098308499998 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.47174921802072, 35.094447524044938 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Safe Refuge", "fid_1": 13 }, "geometry": { "type": "Point", "coordinates": [ -120.530656257, 35.4032228875 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.48398198084332, 35.107998303726532 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot", "fid_1": 14 }, "geometry": { "type": "Point", "coordinates": [ -120.52570797, 35.404692103400002 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.38898944036289, 35.055878135404832 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Safe Refuge", "fid_1": 15 }, "geometry": { "type": "Point", "coordinates": [ -120.498060592, 35.435862957099999 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40041051464513, 35.052356779556369 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helibase", "fid_1": 16 }, "geometry": { "type": "Point", "coordinates": [ -120.603515989, 35.418140601700003 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.41106838521593, 35.060936533600071 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 17 }, "geometry": { "type": "Point", "coordinates": [ -120.580493987, 35.390879977300003 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.41348802349253, 35.070011786925221 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helibase", "fid_1": 18 }, "geometry": { "type": "Point", "coordinates": [ -120.576985075, 35.389892967400002 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.41940761221547, 35.075807681810531 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 19 }, "geometry": { "type": "Point", "coordinates": [ -120.57069398900001, 35.396686841700003 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40405529511058, 35.082588731540113 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 20 }, "geometry": { "type": "Point", "coordinates": [ -120.530423594, 35.391636355400003 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40447531523773, 35.07108620362353 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 21 }, "geometry": { "type": "Point", "coordinates": [ -120.508347132, 35.426307884899998 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.808698144628, 35.462778325315156 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 22 }, "geometry": { "type": "Point", "coordinates": [ -120.54347435699999, 35.438081279 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.80346749259255, 35.480290742310359 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 23 }, "geometry": { "type": "Point", "coordinates": [ -120.493708266, 35.4015683959 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.84320032075453, 35.45894408604029 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 24 }, "geometry": { "type": "Point", "coordinates": [ -120.56071496200001, 35.377465259 ] } }
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.60562068144594, 35.165446064832544 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 25 }, "geometry": { "type": "Point", "coordinates": [ -120.534851773, 35.355145199799999 ] } }
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.59144574600609, 35.154260920405612 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 26 }, "geometry": { "type": "Point", "coordinates": [ -120.514513706, 35.3598826375 ] } }
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.5746456709759, 35.166145592932935 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 27 }, "geometry": { "type": "Point", "coordinates": [ -120.54851614099999, 35.3465048901 ] } }
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.55505038175104, 35.146463328225579 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 28 }, "geometry": { "type": "Point", "coordinates": [ -120.55141306599999, 35.335913258799998 ] } }
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.55497080276395, 35.180340323987153 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 29 }, "geometry": { "type": "Point", "coordinates": [ -120.510732, 35.396420619399997 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.68398594813051, 35.51632609212723 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 30 }, "geometry": { "type": "Point", "coordinates": [ -120.47742542899999, 35.428008089 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.67006926839288, 35.457986724902923 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 31 }, "geometry": { "type": "Point", "coordinates": [ -120.493113248, 35.431873428599999 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.67467224107325, 35.483551309953306 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 32 }, "geometry": { "type": "Point", "coordinates": [ -120.473560127, 35.439887434100001 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.66638133374595, 35.491017006762547 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 33 }, "geometry": { "type": "Point", "coordinates": [ -120.45219936300001, 35.415046576599998 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.73068372452175, 35.445984451592963 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 34 }, "geometry": { "type": "Point", "coordinates": [ -120.44594256000001, 35.409189162099999 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.73373975798178, 35.447895885253992 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 35 }, "geometry": { "type": "Point", "coordinates": [ -120.43881899599999, 35.397353643 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.73987894673363, 35.455513521679713 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 36 }, "geometry": { "type": "Point", "coordinates": [ -120.4552297, 35.391970338299998 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.81415354144079, 35.495554674807508 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 37 }, "geometry": { "type": "Point", "coordinates": [ -120.492554781, 35.3985356779 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.7718370189487, 35.461393743559533 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 38 }, "geometry": { "type": "Point", "coordinates": [ -120.491519414, 35.401631174800002 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.78835193939013, 35.459389672056659 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 39 }, "geometry": { "type": "Point", "coordinates": [ -120.423955527, 35.386678899099998 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.794339602816, 35.461646333788366 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source", "fid_1": 40 }, "geometry": { "type": "Point", "coordinates": [ -120.45444584099999, 35.368920847299997 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.47990953487619, 35.099738860240706 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.60581803321838, 35.391573310028434 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.40206101638276, 35.077478654916384 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.60562068144594, 35.165446064832544 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.40085138670906, 35.062079908189624 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.59144574600609, 35.154260920405612 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.74252228143068, 35.539544498015154 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.5746456709759, 35.166145592932935 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.75256323784265, 35.548860877136427 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.55505038175104, 35.146463328225579 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.74477988955755, 35.53374744695256 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Lookout", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.55497080276395, 35.180340323987153 ] } }
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.44839678676855, 35.080009142238922 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.623365, 35.177595 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.72661656076927, 35.528652053796087 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.615635, 35.180803 ] } }
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.74958216704141, 35.458116112282617 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.601875, 35.139824 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.38830556378656, 35.064251979549233 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.55714404015907, 35.129705522676282 ] } }
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.37533141261453, 35.074853504683055 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.56179310295836, 35.138938427585074 ] } }
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.74063040481633, 35.179558880414007 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.52879, 35.173432 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.39350061168996, 35.345710062431301 ] } }
 ,
-{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area", "fid_1": 0 }, "geometry": { "type": "Point", "coordinates": [ -120.602852, 35.190443 ] } }
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -121.1235833021512, 35.596796648518094 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -121.10826766298592, 35.566016212540752 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -121.10246609044275, 35.555930105658007 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -121.09267322161732, 35.541489760608883 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -121.04092815328659, 35.528631996787077 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -121.08153192599748, 35.556068302404256 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.75952545741244, 35.252232321168968 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.87441682526281, 35.722545953159923 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.87614145892088, 35.741952106658225 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.88330037166041, 35.727169776610268 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.96505153122482, 35.731462702906498 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Safe Refuge Area" }, "geometry": { "type": "Point", "coordinates": [ -120.98978733970083, 35.747958642579896 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.85031273114306, 35.474681093255874 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.77298629703077, 35.459880767963789 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.69339848899277, 35.499524074637719 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.66917985013171, 35.467237983413213 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.85765390185912, 35.475031564223173 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.9023309458096, 35.453700320410583 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.88955245673986, 35.442722650599613 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.40476554651647, 35.070396197769142 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.40052100496631, 35.06229153145037 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.39233115006935, 35.060430479024809 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.74367697775386, 35.541486824615873 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.75301588367638, 35.549150132389201 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.74633404770672, 35.534058328450257 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.70116360937159, 35.526241031409455 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.6836538555574, 35.517250525535566 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.82052653603235, 35.445953078835302 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.8568284867178, 35.381799338806857 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.49671388617743, 35.029418601027494 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.36165242646855, 34.998514257743054 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.36091542968036, 35.005347444992992 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.50710533979938, 35.089784416458009 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.44945654945853, 35.080602565170423 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.40157722684056, 35.075867511561889 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.51211300033184, 35.070479476131382 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.623365, 35.177595000888836 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.615635, 35.180803000888872 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.601875, 35.139824000888424 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.55714404015907, 35.129705523564589 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.56179310295836, 35.138938428473509 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.52879, 35.173432000888781 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.602852, 35.19044300088899 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.49581324482301, 35.437098309418651 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.69509490022271, 35.179017467336614 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.45394113310476, 35.369962847181675 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.57850414245584, 35.388359898016716 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.50420345840669, 35.436948771669663 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.47918904658407, 35.451296702741523 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.44615216592855, 35.395238012415312 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.54324250645456, 35.354363867697394 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.09291498603577, 35.541701037396955 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.07261836280252, 35.551532940529626 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.04264024776542, 35.529376530433296 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.18368560352502, 35.645948668496054 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.82430851698427, 35.362290179320844 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.84410348751868, 35.368359027508156 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.87605947709415, 35.420925769337991 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.1202784270028, 35.581744977474116 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.67402605095624, 35.156810495767985 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.71430526714596, 35.192603739749096 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.72287483647689, 35.177299512077859 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.10788360137721, 35.565799244142525 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.0965950524764, 35.564474227309454 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -121.09354688557683, 35.562895269110683 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.88513079135383, 35.724123247301797 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.82471812161796, 35.477565241390153 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.82210907778229, 35.476185927614765 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.38929315212751, 35.05146319278451 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.80930628947296, 35.472615961053208 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.85745498201419, 35.470591739197403 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.85922112101055, 35.470414106823668 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.50192545498439, 35.095059387176619 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.50059650271041, 35.095239760064082 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.48113801636164, 35.100161667414298 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.47681935132329, 35.099612856984777 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.47464417006627, 35.098735076312799 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.46872683837051, 35.095434268168056 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.46093345927933, 35.090345855244401 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.44149619463829, 35.078461912878076 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.39220980658889, 35.053273679158437 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.3928971288603, 35.054736559757266 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.39243247316352, 35.057592452952427 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.39988999221666, 35.057380007541482 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.40656931570612, 35.054877675401833 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Tactical Staging Area" }, "geometry": { "type": "Point", "coordinates": [ -120.73003701015321, 35.518926709985983 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7172275639101, 35.45554366740793 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72002288831015, 35.455765772265671 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.75113069910175, 35.453780126860579 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.71843737488913, 35.449073276314401 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73113424967239, 35.514526196550406 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72944866819704, 35.515580823384425 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72591239175573, 35.52244982649546 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7286816088707, 35.525229693580982 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72602830475746, 35.526388811167323 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7295330994732, 35.527264993223213 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.69673427003508, 35.226534608468192 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.787704069995, 35.269246089134803 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73471233258253, 35.447103410311463 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -121.11272433416732, 35.620287547589861 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -121.11367924692465, 35.62017489805077 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -121.11306229782274, 35.619718941865656 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73260675310837, 35.446109499241643 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72967925353693, 35.27758033651687 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49225349482487, 35.322499508258261 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49307225863902, 35.326292059549253 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73740912180779, 35.313369533194681 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7529533700385, 35.45696317868827 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.83563311464253, 35.394914543628779 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.83370178924253, 35.410176659643412 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.87946781004509, 35.506905908735938 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79853670243347, 35.288377246457081 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.67531052521419, 35.215095907270495 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -121.00596896221587, 35.736804647615706 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.70935767051441, 35.587257041049007 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.71404093857652, 35.584923554659078 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.71562343448943, 35.58953698821918 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72283339432438, 35.588035013403207 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80660081782827, 35.612304499351566 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.81493199873037, 35.611693032005654 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72013997292896, 35.624196671618819 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72109494467817, 35.624459452527688 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79600552486524, 35.648331956780368 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.77078114276497, 35.659521912501603 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72204962040097, 35.64767683350798 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73672230489488, 35.575139042072273 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73201218498748, 35.581388564692205 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.74547731640949, 35.564775043452734 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.74274676819967, 35.564667726304165 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73140001844705, 35.650852647199052 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.75356632129449, 35.658958470776319 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7740053102082, 35.662633317368062 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7971642546466, 35.650692320207412 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.8177695670133, 35.65141136351707 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.86112605946781, 35.647367012535305 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.87061065393291, 35.642592753070865 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.85964551691704, 35.635999743689652 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.85978500249509, 35.635039509914357 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.8134782178894, 35.609295114004652 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.8138377103849, 35.600191665269314 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80748067008921, 35.603742864670025 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79981001548501, 35.511565660010668 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79288857803661, 35.51975671580022 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.75060068573299, 35.534267565173735 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.77257397433033, 35.530518001950561 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72989897999653, 35.533205165914787 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.73125093265952, 35.522696248477025 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72831659977977, 35.515647341165632 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72900859159225, 35.519246887876719 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72681985596229, 35.52033047762167 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72685203974133, 35.520711353248927 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72469014853247, 35.519348759295049 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.44031432156267, 35.628211890280973 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.43854937762795, 35.628624925872174 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7403112321948, 35.569061173829603 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49941590265614, 35.092131608883314 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.71747311003622, 35.273795128513285 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.71896979003637, 35.272357458511898 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72265514003655, 35.272850988512353 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72851309003681, 35.270876878510457 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.81191906004108, 35.292779798531171 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80439814004075, 35.302784438540733 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80727884004087, 35.2907413185293 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80315360004069, 35.302419658540458 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80460736004066, 35.270463818509945 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80391535004068, 35.287270548525974 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80321261004062, 35.287651418526345 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80352911004063, 35.269669888509213 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80378124004062, 35.269584058509103 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80255815004067, 35.302290918540287 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80261716004064, 35.302188988540216 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79974183004046, 35.295290348533669 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79732248004039, 35.298112028536309 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.81026145004101, 35.296947958535199 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.80997714004097, 35.293246508531624 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.79989203004047, 35.282941458521876 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72379240003698, 35.458958748690236 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.64705976003285, 35.334852928571678 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.64238735003259, 35.329944488566952 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.65043935003303, 35.345656868582012 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.68661433312292, 35.338963459809086 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.77807509537674, 35.431493176608505 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.7648248300108, 35.563275214759223 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -121.11636195508552, 35.603675850099052 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.39766415023242, 35.056686172341195 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.40420916870758, 35.053159318818949 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.40215095298156, 35.053436880528722 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.40584248011187, 35.073041861241776 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.47309969986432, 35.439265063686591 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.45451313812454, 35.368416981320614 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.50787235974904, 35.425956966579811 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49133206272508, 35.401494064635564 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49242104562512, 35.39865086463282 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.54323145192775, 35.438964641671362 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.57057521581895, 35.39663977459653 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.47737388702434, 35.428112824661035 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.45126072752304, 35.415108958648624 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.44639002882273, 35.40946541864318 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.51183301705035, 35.396924097314283 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.53032532207536, 35.391384883664465 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49186759779911, 35.432083395694349 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.57071452631074, 35.364858995344832 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.54805626846407, 35.346679882455419 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.42361826225708, 35.386650021914477 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.53643207166448, 35.354077296643389 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.50938891491276, 35.441381850352393 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49470008772018, 35.336176173674403 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.55559900071299, 35.341605079124648 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.45547365912876, 35.391703305411411 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.51265655049667, 35.358505554981342 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.43709640291482, 35.39782748034942 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.49384445946981, 35.401455327906923 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56080712707987, 35.378367782484041 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.57475518481631, 35.349215151670592 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.72826476593859, 35.1789866114284 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.610035, 35.15308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.565944, 35.145113 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.566642, 35.14576 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56625, 35.146894 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.566808, 35.146106 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56757, 35.1454 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56831, 35.145189 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568315, 35.14457 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.570043, 35.144057 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.569206, 35.143322 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568986, 35.143467 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568047, 35.14177 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.564432, 35.143311 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.555575, 35.14572 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.554588, 35.140806 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.55707611505829, 35.143015331711204 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.557324, 35.138842 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56198, 35.138408 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.604724, 35.174897 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.584065, 35.164914 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.587204, 35.163009 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.589687, 35.153723 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.593496, 35.14668 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.523828, 35.171308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.553215, 35.149405 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.553067, 35.149578 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.54482, 35.14627 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.547068, 35.147706 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.544945, 35.14624 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.538545, 35.15225 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.554341, 35.158079 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.556514, 35.159286 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.552608, 35.16181 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.554293, 35.161217 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.574195, 35.166056 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.564582, 35.164543 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.560253, 35.163578 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.558837, 35.160584 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.557748, 35.166727 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.565944, 35.145113 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.566642, 35.14576 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56625, 35.146894 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.566808, 35.146106 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56757, 35.1454 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56831, 35.145189 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568315, 35.14457 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568047, 35.14177 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.564432, 35.143311 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.554588, 35.140806 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.55733467639098, 35.142807861341957 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.569931, 35.14681 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.570361, 35.146593 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568359, 35.142571 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.575786, 35.14521 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.575143, 35.146758 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.572424, 35.149729 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.57238, 35.14953 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.571669, 35.149914 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.572431, 35.15033 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.567908, 35.152699 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.556541, 35.15182 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.556594, 35.151916 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.559963, 35.150961 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.559958, 35.150961 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.561706, 35.15211 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.561803, 35.15268 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.56794, 35.157419 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.567709, 35.158015 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.567634, 35.157908 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.555559, 35.15639 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.55145, 35.154635 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.554073, 35.15284 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.55359, 35.155928 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.559083, 35.15766 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568557, 35.161759 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.568385, 35.161566 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.570284, 35.160906 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.566567, 35.160708 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.5743, 35.15504 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.578305, 35.153477 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.578191, 35.153473 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.577335, 35.150357 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.579767, 35.14613 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.669374, 35.247355 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.607213, 35.19797 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.60645, 35.197981 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.605044, 35.19633 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.603686, 35.18937 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.604469, 35.189183 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.6052, 35.187877 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.60533, 35.18761 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.606677, 35.186992 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.598112, 35.187315 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.600692, 35.181705 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.601001, 35.180597 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.587688, 35.172767 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.584228, 35.173364 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.582829, 35.173567 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.552385, 35.138083 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.551995, 35.13766 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.551325, 35.13713 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Arroyo Grande", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.550261, 35.13618 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.76391096895223, 35.252611682310928 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.76247287931156, 35.253311095074736 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.76080190062554, 35.252504317748418 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.76986920915638, 35.253097679787423 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.89647722869924, 35.7296933007772 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.8993333911103, 35.727085243036228 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.89714056096636, 35.725829511607245 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.87948642436362, 35.728906799945264 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.94379858045053, 35.759756396523308 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.94135701982368, 35.761403557762378 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Water Source" }, "geometry": { "type": "Point", "coordinates": [ -120.89985721595707, 35.734039200142441 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Base Camp" }, "geometry": { "type": "Point", "coordinates": [ -121.12273096754063, 35.599218470877616 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Base Camp" }, "geometry": { "type": "Point", "coordinates": [ -121.07001275640529, 35.57010308563472 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Base Camp" }, "geometry": { "type": "Point", "coordinates": [ -120.85879928492088, 35.381450659353526 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Base Camp" }, "geometry": { "type": "Point", "coordinates": [ -120.44224449801057, 34.94096389925884 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Base Camp" }, "geometry": { "type": "Point", "coordinates": [ -120.4980365017621, 35.032405249447855 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.67465461317013, 35.206899033426474 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.76003301112563, 35.251696339826204 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.53059154235453, 35.403203820621052 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.45284444724795, 35.369981601194972 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.49776219279072, 35.435943646764024 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.49357217203713, 35.398564788137044 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.76322559885139, 35.236945366835606 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.72060934099488, 35.210393741089092 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.74969223304275, 35.221900551807785 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.77137885477046, 35.23114466422436 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.75512771783212, 35.234453663893277 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Deployment Zone" }, "geometry": { "type": "Point", "coordinates": [ -120.7764751570251, 35.230624290954971 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helibase" }, "geometry": { "type": "Point", "coordinates": [ -120.60351598883742, 35.418140601722406 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helibase" }, "geometry": { "type": "Point", "coordinates": [ -120.57698507474275, 35.389892967369533 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helibase" }, "geometry": { "type": "Point", "coordinates": [ -121.04390565372887, 35.529890760009721 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helibase" }, "geometry": { "type": "Point", "coordinates": [ -121.12623176606533, 35.59995986341147 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helibase" }, "geometry": { "type": "Point", "coordinates": [ -121.10926207287665, 35.601124647882564 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.77254778752507, 35.460510330709539 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.79160150373113, 35.497536536664526 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.8610941493037, 35.461965230895821 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.82816456615754, 35.485617893434231 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.89191966846748, 35.448743316891644 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.88181703112089, 35.435125283266004 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.87274671764413, 35.42832532580649 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.45980476820237, 35.098133835471984 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.48453024674946, 35.109390716917815 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.48335998702625, 35.104568409360446 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.41151502962794, 35.062926244849635 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.40374494862324, 35.08214743381064 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.39726990839459, 35.062502969149627 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.74338412894787, 35.540374579398893 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.7543356423632, 35.549228611759048 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.74510050898054, 35.534747663693416 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.82503651416074, 35.444077313296084 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.81008976417618, 35.463456007299193 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.81405443587677, 35.4679037713017 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.48013466624225, 35.099552459860192 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.44895733121427, 35.081176798637628 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.40096469794663, 35.076949192274448 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.40595331891895, 35.068457245220095 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.39113301332029, 35.059950322545554 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.39243851043842, 35.05419262728126 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.40840695916432, 35.054703493184839 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.40628385144606, 35.05519141487563 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.72717531203523, 35.529816002908419 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.73272069870904, 35.520581727680813 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.5257079697592, 35.404692103439253 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.21345992035855, 35.360240521815136 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27883302751415, 35.376832975612132 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27949997831422, 35.403332994637495 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27893340001665, 35.404024424635892 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.03879103005376, 35.666626098888855 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.00244400220004, 35.317117021555191 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -119.77272203898856, 35.134607987381131 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.04166699220211, 35.24883303349003 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.02300004390116, 35.242500039483986 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.10266699150516, 35.233832987475694 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.08499997180427, 35.18516702242934 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.07083300560355, 35.496499970726724 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.06366701270319, 35.417667016651222 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -119.86366697269318, 35.110500005358261 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.21300000811081, 35.361000001597056 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -119.85316697609261, 35.19033301543422 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -119.86583296969324, 35.153667024399361 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27883302751415, 35.376832975612132 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27949997831422, 35.403332994637495 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27383301591388, 35.355667038591875 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.6858430467279, 35.339603335726764 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.27893340001665, 35.404024424635892 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.67631400003397, 35.206238003988112 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.66563361996734, 35.154066623772721 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.68618817630569, 35.160229806469516 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.77304345439205, 35.255615359017675 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.48223969532461, 35.390845366322999 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.40791428109898, 35.378704528758341 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.57780788252443, 35.38941989101059 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.47156094408766, 35.385661590074939 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.49459969506979, 35.400169195253532 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Parkhill", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.44752447077073, 35.393695994003302 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.10965625295179, 35.601423982089571 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.07045927791731, 35.568716236530577 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.09543415424704, 35.563560952342399 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.10796995252018, 35.566226943536925 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.09254935947716, 35.5418079456946 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.96315728242277, 35.732528364026294 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.93885086137999, 35.756211111677082 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.90114638986745, 35.756919504861948 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.87523240149611, 35.722204509893587 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "East Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.9027245448296, 35.731837137358511 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.0241750542328, 35.758386492717385 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.02976883597741, 35.754107773421858 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.9895063816931, 35.748001937210759 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.93885086137999, 35.756211111677082 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -121.0056001138197, 35.733445197676218 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.96315434325689, 35.732500658636766 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Lake Nacimiento", "type": "Helispot" }, "geometry": { "type": "Point", "coordinates": [ -120.9565100237909, 35.713352300993726 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.63482763863091, 35.4537254729766 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.74289450235337, 35.541964116168067 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.87605570143607, 35.420929658824235 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.49712189321008, 35.030681902754033 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.36078612805343, 35.003285349166141 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.50648211767447, 35.090790699482639 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Avila Valley", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.7013560387994, 35.193951476355132 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -120.60328903988, 35.393606417711538 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -121.12472833228497, 35.599195502607039 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -121.10438464862568, 35.572765448132614 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -121.06812234110683, 35.56864162873994 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -121.07679461481727, 35.560396719649418 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Cambria", "type": "Incident Command Post" }, "geometry": { "type": "Point", "coordinates": [ -121.08145749342381, 35.557369666434582 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Upper Los Berros", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.47443026192484, 35.094191994380601 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40072313360531, 35.078597821760873 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40185460159348, 35.072458554430426 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.76482994285168, 35.46116886274919 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.85743085713386, 35.463264478089172 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "West Atascadero", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.85788322935841, 35.459586353867813 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.4018414609685, 35.070962679429101 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40820893724153, 35.054844697397627 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40758849222384, 35.057639023166658 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40803936052956, 35.05727937305079 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "Suey Creek", "type": "Directional Lookout" }, "geometry": { "type": "Point", "coordinates": [ -120.40578997659716, 35.060970007544853 ] } }
+,
+{ "type": "Feature", "properties": { "preattack": "N\/A", "type": null }, "geometry": { "type": "Point", "coordinates": [ ,  ] } }
 
 ]
 }
